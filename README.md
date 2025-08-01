@@ -1,1 +1,1 @@
-# Anime-Face-Image-Generation-using-GAN
+This project leverages Generative Adversarial Networks (GANs) to synthesize anime-style faces. The model is trained on a curated dataset of anime faces, and the generated outputs progressively improve across epochs. A video showcasing this evolution is included to visualize the training process.
